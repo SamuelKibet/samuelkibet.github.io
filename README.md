@@ -1,2 +1,2 @@
 # samuelkibet.github.io
-Personal portfolio
+This is my Personal portfolio
